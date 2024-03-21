@@ -1,0 +1,11 @@
+s1 = int(input())
+s2 = int(input())
+s3 = int(input())
+s4 = int(input())
+s5 = int(input())
+s6 = int(input())
+s7 = int(input())
+s8 = int(input())
+s9 = int(input())
+s10 = int(input())
+x = [s1, s2, s3, s4, s5, s6, s7, s8, s9, s10]

@@ -1,0 +1,11 @@
+Package: dict
+Available-Versions: 1
+Version: 1.13.0
+Depends: netbase >= 0.0.0, recode >= 0.0.0, libc6 >= 2.34.0, libmaa4 >= 1.4.2
+Size: 48498
+
+Package: gcc-12-base
+Available-Versions: 1
+Version: 12.2.8
+Depends:
+Size: 18880
